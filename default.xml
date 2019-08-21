@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <default sync-j="4" revision="master" remote="origin" />
+    <default sync-j="4" revision="master" remote="yocto" />
     <remote name="yocto" fetch="git://git.yoctoproject.org" />
     <remote name="oe" fetch="git://git.openembedded.org" />
     <remote name="qt5" fetch="git://github.com/meta-qt5" />
