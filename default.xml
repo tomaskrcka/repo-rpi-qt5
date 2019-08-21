@@ -9,6 +9,6 @@
     <project name="poky" revision="refs/heads/warrior" remote="yocto" path="poky-warrior" />
     <project name="meta-openembedded" revision="refs/heads/warrior"  remote="oe" path="poky-warrior/meta-openembedded" />
     <project name="meta-qt5" revision="refs/heads/warrior"  remote="qt5" path="poky-warrior/meta-qt5" />
-    <project name="meta-rpi" revision="refs/heads/warrior"  remote="rpi" path="rpi" />
+    <project name="meta-rpi" revision="refs/heads/warrior"  remote="rpi" path="rpi/meta-rpi" />
 
 </manifest>
