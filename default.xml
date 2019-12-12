@@ -6,9 +6,9 @@
     <remote name="qt5" fetch="git://github.com/meta-qt5" />
     <remote name="rpi" fetch="git://github.com/jumpnow" />
 
-    <project name="poky" revision="refs/heads/warrior" remote="yocto" path="poky-warrior" />
-    <project name="meta-openembedded" revision="refs/heads/warrior"  remote="oe" path="poky-warrior/meta-openembedded" />
-    <project name="meta-qt5" revision="refs/heads/warrior"  remote="qt5" path="poky-warrior/meta-qt5" />
-    <project name="meta-rpi" revision="refs/heads/warrior"  remote="rpi" path="rpi/meta-rpi" />
+    <project name="poky" revision="refs/heads/rocko" remote="yocto" path="poky-rocko" />
+    <project name="meta-openembedded" revision="refs/heads/rocko"  remote="oe" path="poky-rocko/meta-openembedded" />
+    <project name="meta-qt5" revision="refs/heads/rocko"  remote="qt5" path="poky-rocko/meta-qt5" />
+    <project name="meta-rpi" revision="refs/heads/rocko"  remote="rpi" path="rpi/meta-rpi" />
 
 </manifest>
