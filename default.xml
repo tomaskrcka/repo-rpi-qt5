@@ -7,6 +7,8 @@
     <remote name="rpi" fetch="git://github.com/jumpnow" />
 
     <project name="poky" revision="refs/heads/rocko" remote="yocto" path="poky-rocko" />
+    <project name="meta-raspberrypi" revision="refs/heads/rocko" remote="yocto" path="poky-rocko/meta-raspberrypi" />
+    <project name="meta-security" revision="refs/heads/rocko" remote="yocto" path="poky-rocko/meta-security" />
     <project name="meta-openembedded" revision="refs/heads/rocko"  remote="oe" path="poky-rocko/meta-openembedded" />
     <project name="meta-qt5" revision="refs/heads/rocko"  remote="qt5" path="poky-rocko/meta-qt5" />
     <project name="meta-rpi" revision="refs/heads/rocko"  remote="rpi" path="rpi/meta-rpi" />
